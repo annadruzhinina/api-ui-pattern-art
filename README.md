@@ -1,7 +1,11 @@
-# Getting Started with Create React App
+## API of Art Institute of Chicago
+[https://api.artic.edu/docs/](https://api.artic.edu/docs/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## GitHub Link
+[https://github.com/annadruzhinina/api-ui-pattern-art](https://github.com/annadruzhinina/api-ui-pattern-art)
 
+## Deployment
+[https://63c0666bfb6a91661c079f5a--rainbow-creponne-172444.netlify.app/](https://63c0666bfb6a91661c079f5a--rainbow-creponne-172444.netlify.app/)
 ## Available Scripts
 
 In the project directory, you can run:
@@ -36,5 +40,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-
