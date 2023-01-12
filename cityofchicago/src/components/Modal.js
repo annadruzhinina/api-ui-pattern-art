@@ -22,11 +22,11 @@ function Modal({ artwork, modalOpen, toggleModal }) {
               {artwork.dimensions}
             </p>
 
-            <p className="modal-text">
+            {/* <p className="modal-text">
               {" "}
               <span className="submodel">Publication history: </span>
               {artwork.publication_history}
-            </p>
+            </p> */}
 
             <p className="modal-text">
               {" "}

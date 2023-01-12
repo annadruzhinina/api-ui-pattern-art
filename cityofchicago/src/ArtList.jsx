@@ -1,5 +1,5 @@
 import "./ArtList.css";
-import Modal from "/Users/anna/dev/sendBox/api-ui-pattern/cityofchicago/src/components/Modal.js";
+import Modal from "../src/components/Modal.js";
 import { useState } from "react";
 
 function ArtList({ artworks }) {
