@@ -1,6 +1,8 @@
 ## API of Art Institute of Chicago
 [https://api.artic.edu/docs/](https://api.artic.edu/docs/)
 
+
+
 ## GitHub Link
 [https://github.com/annadruzhinina/api-ui-pattern-art](https://github.com/annadruzhinina/api-ui-pattern-art)
 

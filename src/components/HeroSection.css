@@ -1,15 +1,13 @@
 video {
   object-fit: cover;
-  width: 100%;
+  width: 1440px;
   height: 100%;
   position: fixed;
   z-index: -1;
 }
-.video {
-  width: 100%;
-}
+
 .hero-container {
-  background: url("/images/img-home.jpg") center center/cover no-repeat;
+  background: url("images/img-1.png") center center/cover no-repeat;
   height: 100vh;
   width: 100%;
   display: flex;
@@ -40,10 +38,6 @@ video {
 
 .hero-btns .btn {
   margin: 6px;
-}
-
-.fa-play-circle {
-  margin-left: 4px;
 }
 
 @media screen and (max-width: 960px) {

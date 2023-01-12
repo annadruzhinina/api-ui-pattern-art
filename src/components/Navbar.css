@@ -102,6 +102,7 @@
     opacity: 1;
     transition: all 0.5s ease;
     z-index: 1;
+    margin-top: 0;
   }
 
   .nav-links {
@@ -158,5 +159,8 @@
     background: #fff;
     color: #242424;
     transition: 250ms;
+  }
+  .nav-all-items {
+    margin-top: 0;
   }
 }
