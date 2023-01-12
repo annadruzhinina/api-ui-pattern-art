@@ -37,6 +37,7 @@ body.active-modal {
 }
 .modal-title {
   padding-bottom: 20px;
+  margin-right: 20px;
 }
 .close-modal {
   position: absolute;
@@ -53,7 +54,6 @@ body.active-modal {
   font-size: 14px;
   padding-bottom: 10px;
   text-align: justify;
-  margin-right: 20px;
 }
 
 .submodel {
