@@ -29,6 +29,7 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-container">
+          {/* ART  LOGO*/}
           <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
             ART
             <i class="fab fa-react" />
@@ -71,15 +72,7 @@ function Navbar() {
               </Link>
             </li>
 
-            <li>
-              <Link
-                to="/sign-up"
-                className="nav-links-mobile"
-                onClick={closeMobileMenu}
-              >
-                Sign Up
-              </Link>
-            </li>
+            <li></li>
           </ul>
           {button && <Button buttonStyle="btn--outline">SIGN UP</Button>}
         </div>

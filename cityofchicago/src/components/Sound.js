@@ -21,9 +21,14 @@ function Sound() {
         <source src="/audio/mainPage.mp3" type="audio/mp3" />
         Your browser does not support the audio element.
       </audio>
-      <button class="btn btn--outline btn--medium left--position" onClick={playSound}>
+
+      <button
+        className="btn btn--outline btn--medium left--position"
+        onClick={playSound}
+      >
         {" "}
-        {music ? "Stop" : "Play"}
+        {/* <i className={music ? "Stop" : "fab fa-react"} /> */}
+        <i className={music ? "fas fa-volume-mute" : "fas fa-volume-up"} />
       </button>
     </div>
   );
