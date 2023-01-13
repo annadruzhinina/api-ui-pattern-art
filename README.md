@@ -135,10 +135,11 @@ In Progress...
 ### - Art Works: The 'Art Works' section displays pictures from an API. If a user clicks on a picture, a popup window will appear with additional information about the artwork which comes from API.
 
 <div style="text-align:center"><img src="./public/images/readmeImg/Artworks.png" width="600"/></div>
+<div style="text-align:center"><img src="./public/images/readmeImg/PopUp.png" width="600"/></div>
 
 ### - About Us: This section provides some information about the art gallery.
 
-<div style="text-align:center"><img src="./public/images/readmeImg/PopUp.png" width="600"/></div>
+<div style="text-align:center"><img src="./public/images/readmeImg/AboutUs.png" width="600"/></div>
 
 ### - Sign up: Users can sign up on the website by filling out a form that includes fields for name, email, password, and confirm password.
 
@@ -147,7 +148,7 @@ In Progress...
 ### - Responsive Design: The navigation bar transforms into a hamburger menu when the size of the window is less than 960px.
 
 <div style="text-align:center"><img src="./public/images/readmeImg/HumburgerMenu_ArtWorks.png" width="600"/></div>
-<div style="text-align:center"><img src="./public/images/readmeImg/AboutUs.png" width="600"/></div>
+
 <div style="text-align:center"><img src="./public/images/readmeImg/HumburgerMeny.png" width="600"/></div>
 
 ---
