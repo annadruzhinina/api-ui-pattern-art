@@ -155,12 +155,17 @@ In Progress...
 
 # Future Features
 
-### - Search: A search feature that allows users to search for specific artworks or tours.
+- Search: A search feature that allows users to search for specific artworks or
+  tours.
 
-### - Filter: A filter feature that allows users to filter artworks by artist, medium, or date.
+- Filter: A filter feature that allows users to filter artworks by artist,
+  medium, or date.
 
-### - Social Media Integration: Integration with social media platforms such as Facebook, Instagram, and Twitter to share artworks and tours.
+- Social Media Integration: Integration with social media platforms such as
+  Facebook, Instagram, and Twitter to share artworks and tours.
 
-### - User Profiles: A user profile feature that allows users to save their favorite artworks and tours.
+- User Profiles: A user profile feature that allows users to save their favorite
+  artworks and tours.
 
-### - Review System: A review system that allows users to leave feedback on artworks and tours.
+- Review System: A review system that allows users to leave feedback on artworks
+  and tours.
