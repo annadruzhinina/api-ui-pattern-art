@@ -118,9 +118,4 @@ https://www.artic.edu/iiif/2/1adf2696-8489-499b-cad2-821d7fde4b33/full/843,/0/de
 
 5. Result
 
-<div style="text-align:center"><img src="/Users/anna/dev/api-ui-pattern-art/public/images/readme.png" width="600"/></div>
-
-URL where _{identifier}_ = 2d484387-2509-5e8e-2c43-22f9981972eb
-
-
-
+<div style="text-align:center"><img src="./public/images/readme.png" width="600"/></div>
