@@ -11,7 +11,7 @@
   justify-content: center;
   min-height: 110vh;
   align-items: center;
-  background-color: #152605;
+  background-color: rgba(21, 38, 49);
   /* #091921; */
 }
 .gallery--list {
@@ -38,7 +38,7 @@
   padding-top: 15px;
   justify-content: center;
   color: #fff;
-  background-color: #152605;
+  background-color: rgba(21, 38, 49);
 }
 
 .images img:hover {

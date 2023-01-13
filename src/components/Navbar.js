@@ -71,6 +71,7 @@ function Navbar() {
                 About Us
               </Link>
             </li>
+            <li className="nav-bottom"></li>
           </ul>
           {button && <Button buttonStyle="btn--outline">SIGN UP</Button>}
         </div>
