@@ -12,7 +12,7 @@ In This project I implemented a website whose data comes from
 - GitHub Link
   [https://github.com/annadruzhinina/api-ui-pattern-art](https://github.com/annadruzhinina/api-ui-pattern-art)
 - Deployment
-  [https://63c0666bfb6a91661c079f5a--rainbow-creponne-172444.netlify.app/](https://63c0666bfb6a91661c079f5a--rainbow-creponne-172444.netlify.app/)
+  [https://rainbow-creponne-172444.netlify.app/](https://rainbow-creponne-172444.netlify.app/)
 
 ---
 
